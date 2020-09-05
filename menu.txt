@@ -2,3 +2,5 @@ a reciepe for different food items.
 pulaw
 gulab jamun
 sandwich
+pizza
+dosa
