@@ -2,6 +2,7 @@ a reciepe for different food items.
 pulaw
 gulab jamun
 sandwich
+carrot
 pizza
 dosa
 chapathi
