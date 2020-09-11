@@ -4,3 +4,5 @@ gulab jamun
 sandwich
 pizza
 dosa
+chapathi
+paneer
